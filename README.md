@@ -1,0 +1,1 @@
+# this is a JS-Syntax Trainingmode you don't need to see the Code <br>*just for me
